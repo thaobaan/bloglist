@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/blogs
+Content-Type: Application/json
+
+{
+    "title": "reservoir dogs",
+    "author": "brown dog",
+    "url": "blog url",
+    "likes": 1
+}
